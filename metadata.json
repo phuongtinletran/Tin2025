@@ -1,0 +1,8 @@
+{
+  "name": "Multipurpose Portfolio Agency",
+  "description": "A high-end, responsive agency portfolio website inspired by modern branding designs, featuring a vibrant pink palette and professional layout.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
